@@ -21,7 +21,7 @@ and task details.  An improved one.
   
 ## How This Helps Me?
 I was curious to create a simple login, logout faeture to a todo app. In that case, it allows users o create their individual tasks. More HTML and CSS styling to the background. Since the first project was done when I was started
-  to learn Python so some of the additional features where misisng .
+  to learn Python so some of the additional features where misisng . Connecting MySQL database in server. Deploying.
   <p>I was vey happy that I am able to implement a basic login feature by learning. </p>
 
 ## Languages and Tools Used
